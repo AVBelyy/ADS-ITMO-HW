@@ -1,0 +1,9 @@
+*.swp
+*.class
+*.in
+*.out
+*.hi
+*.o
+*.prof
+run
+a.out
